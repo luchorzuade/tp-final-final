@@ -1,0 +1,26 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+#principal {
+    background-color: grey;
+}
+
+h1 {
+    background-color: chartreuse;
+    width: 500px;
+}
+
+h2 {
+    color: violet
+}
+
+#portada {
+    background-color: rgb(26, 228, 255);
+    width: 400px;
+}
+
+#separador {
+    width: 500px;
+}
